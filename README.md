@@ -2,7 +2,7 @@
 
 Este repositório contém a solução completa para a Fase 6 (IA) da FIAP, focada em sistemas de visão computacional para segurança e monitorização animal/patrimonial.
 
-## 👥 Integrantes (Grupo S - Turma 55)
+## 👥 Integrantes (Grupo S - Turma 31)
 * Federico Enrique Villagra - RM 567187
 * Paulo Henrique Benfica - RM 567648
 * Mateus Penteado de Lima - RM 568518
