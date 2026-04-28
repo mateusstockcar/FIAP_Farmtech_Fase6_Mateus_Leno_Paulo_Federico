@@ -12,7 +12,7 @@ Este repositório contém a solução completa para a Fase 6 (IA) da FIAP, focad
 [ASSISTIR VÍDEO NO YOUTUBE](COLOQUE_O_LINK_AQUI)
 
 ## 📁 Link do Notebook Jupyter
-[ASSISTIR VÍDEO NO YOUTUBE](https://colab.research.google.com/drive/1v3xQcQa92AZPOuZ0mtEqBLYFz05qJCXT?usp=sharing)
+[ACESSAR NOTEBOOK JUPYTER](https://colab.research.google.com/drive/1v3xQcQa92AZPOuZ0mtEqBLYFz05qJCXT?usp=sharing)
 
 ## 📁 Conteúdo
 1. **YOLOv5 Customizado:** Reconhecimento de classes específicas com comparação de 30 e 60 épocas.
